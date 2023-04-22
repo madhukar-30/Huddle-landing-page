@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://github.com/madhukar-30/Huddle-landing-page.git)
 - Live Site URL: [Add live site URL here](https://6443bb99de489d0b27101fc8--melodic-capybara-9baa72.netlify.app/)
 
 ## My process
