@@ -52,7 +52,7 @@ I learned fill property of css.
 
 
 ## Author
-- Frontend Mentor - [@master-manas](https://www.frontendmentor.io/profile/master-manas)
+- Frontend Mentor - [@madhukar-30](https://www.frontendmentor.io/profile/madhukar-30)
 
 
 
